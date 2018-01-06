@@ -1,0 +1,27 @@
+
+body{
+	background-color: #1F2833;
+}
+.container{
+	margin: 50px auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #3FEEE6;
+	border-radius: 25px;
+	color: black;
+}
+
+#question{
+	font-size: 25px;
+}
+
+#answer{
+	font-size: 20px;
+}
+
+#btn{
+	width: 200px;
+	height: 50px;
+	margin-bottom: 10px;
+}
